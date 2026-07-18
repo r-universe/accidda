@@ -6,6 +6,9 @@
 	path = cmdstanr
 	url = https://github.com/stan-dev/cmdstanr
 	registered = false
+[submodule "flexstanr"]
+	path = flexstanr
+	url = https://github.com/accidda/flexstanr
 [submodule "imuGAP"]
 	path = imuGAP
 	url = https://github.com/accidda/imugap
