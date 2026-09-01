@@ -4,11 +4,5 @@
     "url": "https://github.com/stan-dev/cmdstanr",
     "via": ["flexstanr"],
     "from": "flexstanr"
-  },
-  {
-    "package": "cmdstanr",
-    "url": "https://github.com/stan-dev/cmdstanr",
-    "via": ["imuGAP"],
-    "from": "imuGAP"
   }
 ]
