@@ -9,6 +9,9 @@
 [submodule "flexstanr"]
 	path = flexstanr
 	url = https://github.com/accidda/flexstanr
+[submodule "hestia"]
+	path = hestia
+	url = https://github.com/accidda/hestia
 [submodule "imuGAP"]
 	path = imuGAP
 	url = https://github.com/accidda/imugap
